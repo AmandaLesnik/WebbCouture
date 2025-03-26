@@ -1,14 +1,20 @@
+/*Asterisk wildcard selector*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 /*Header*/
 header {
-    background-color: black;
+    background-color: rgb(174, 104, 202);
 }
 
 /*Main*/
 main {
-    background-color: gray;
+    background-color: rgb(92, 119, 145);
 }
 
 /*Footer*/
 footer {
-    background-color: black;
+    background-color: rgb(65, 35, 121);
 } 
