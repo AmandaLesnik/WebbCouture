@@ -4,6 +4,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Styles in general */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /*Generics styles*/
+    color: blue;
+}
+
+
 /*Header*/
 header {
     background-color: rgb(174, 104, 202);
@@ -12,6 +23,9 @@ header {
 /*Main*/
 main {
     background-color: rgb(92, 119, 145);
+    /*Make main element grow to fill the remaining space*/
+    flex: 1 0 auto;
+
 }
 
 /*Footer*/
