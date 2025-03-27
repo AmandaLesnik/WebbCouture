@@ -55,6 +55,17 @@ h1 {
     border-bottom: 1px solid rgb(53, 34, 78);
 }
 
+/*Nav styles dropdown*/
+nav ul {
+    position: absolute;
+    background-color: rgb(174, 104, 202);
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
+
 /*Main*/
 main {
     background-color: rgb(92, 119, 145);
