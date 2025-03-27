@@ -24,6 +24,10 @@ header {
     background-color: rgb(174, 104, 202);
 }
 
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
 /*Main*/
 main {
     background-color: rgb(92, 119, 145);
