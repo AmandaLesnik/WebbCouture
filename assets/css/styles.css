@@ -85,10 +85,16 @@ nav {
 
 /*Main*/
 main {
-    background-color: rgb(92, 119, 145);
-    /*Make main element grow to fill the remaining space*/
+
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/*Hero image*/
+#hero {
+    width: 100%;
+    height: 600px;
+    background: url("assets/image/hero.webp") no-repeat center center/cover;
 }
 
 /*Footer*/
