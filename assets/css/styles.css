@@ -33,7 +33,7 @@ header {
 }
 
 header a {
-    color: rgb(12, 11, 11);
+    color: inherit;
     text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: rgb(53, 34, 78);
+    color: #252525;
 }
 
 #menu {
@@ -55,7 +55,7 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid rgb(53, 34, 78);
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /*Nav styles dropdown*/
@@ -83,18 +83,17 @@ nav {
     font-size: 2rem;
 }
 
-/*Main*/
+/*Main - HÄR VILL DE HA MELLANRUM EFTER MAIN MEN DE VILL EJ POGRAMMET*/
 main {
-
     flex: 1 0 auto;
     margin-top: 47px;
 }
 
 /*Hero image*/
 #hero {
-    width: 100%;
     height: 600px;
-    background: url("assets/image/hero.webp") no-repeat center center/cover;
+    width: 100%;
+    background: url("../images/wcmail.webp") no-repeat center center/cover;
 }
 
 /*Footer*/
