@@ -89,8 +89,8 @@ main {
     margin-top: 47px;
 }
 
-/*Hero image*/
-#hero {
+/*Wc-mail Main pic */
+#wc-mail {
     height: 600px;
     width: 100%;
     background: url("../images/wcmail.webp") no-repeat center center/cover;
