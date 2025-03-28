@@ -14,22 +14,21 @@ body {
     display: flex;
     flex-direction: column;
     /*Generics styles*/
-    color: blue;
+    color: rgb(83, 0, 63);
     font-family: 'Lato', sans-serif;
 }
 
-
 /*Header*/
 header {
-    background-color: #ffffff;
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    background-color: #ffffff; /*White*/
+    padding: 0 1rem; /*Padding on the sides*/
+    position: fixed; /*Fixed position*/
+    z-index: 99;   /*Z-index*/
+    width: 100%; /*Full width*/
+    box-shadow: 0 2px 2px #3a3a3a; /*Shadow*/
+    display: flex; /*Flexbox*/
+    justify-content: space-between; /*Space between*/
+    align-items: baseline;  /*Align items*/
 }
 
 header a {
@@ -39,9 +38,18 @@ header a {
 
 h1 {
     font-family: 'Oswald', sans-serif;
+    font-size: 0 1rem;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: #52004b;
+}
+
+h2 {
+    font-family: helvetica;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #dad0d9;
+    padding: 0 0.5rem;
 }
 
 #menu {
@@ -65,7 +73,7 @@ nav {
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #272727;
     display: none;
     top: 100%;
 }
@@ -89,11 +97,11 @@ main {
     margin-top: 47px;
 }
 
-/*Wc-mail Main pic */
-#wc-mail {
+/*Pink Main pic */
+#pink {
     height: 600px;
     width: 100%;
-    background: url("../images/wcmail.webp") no-repeat center center/cover;
+    background: url("../images/pink.jpg") no-repeat center center/cover;
 }
 
 /*Footer*/
@@ -108,7 +116,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #81044d;
 }
 
 /* Media query: tablets and larger (768px and up) */
