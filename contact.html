@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact WebbCouture - let's talk about your project.">
+    <meta name="keywords" content="contact, web design, webbcouture, email, form">
+    <title>Contact - WebbCouture</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <body class="contact-page">
+</head>
+<body>
+    <header>
+        <a href="index.html">
+            <h1 id="logo">WebbCouture</h1>
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="info.html">Info</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+ <main>
+    <section>
+        <h2>Contact Us</h2>
+        <form id="contact-form" class="stacked-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+        <p id="confirmation-message" style="display: none; color: rgb(128, 0, 107); font-weight: bold; margin-top: 1rem;">
+            Your message has been sent!
+        </p>
+    </section>
+</main>
+    <footer>
+        <ul id="social-networks">
+            <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-square-facebook"></i></a></li>
+            <li><a href="https://www.whatsapp.com/" target="_blank" rel="noopener" aria-label="Whatsapp"><i class="fa-brands fa-square-whatsapp"></i></a></li>
+            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a></li>
+        </ul>
+    </footer>
+    <script src="https://kit.fontawesome.com/605738b345.js" crossorigin="anonymous"></script>
+    <script>
+        document.getElementById("contact-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // prevent real submission
+            this.reset(); // clear the form
+            document.getElementById("confirmation-message").style.display = "block";
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
 

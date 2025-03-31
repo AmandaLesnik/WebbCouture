@@ -139,6 +139,54 @@ padding-left: 10px;
     margin: 5px 0;
 }
 
+.info-page {
+    background-color: #c591c2;
+}
+
+.contact-page {
+    background-color: #c591c2;
+}
+
+.index-page {
+    background-color: #c591c2;
+}
+
+ /* Contact form stacked layout */
+ .stacked-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 600px;
+    margin: 2rem 2rem;
+    padding: 1rem;
+}
+.stacked-form label {
+    font-weight: bold;
+}
+.stacked-form input,
+.stacked-form textarea,
+.stacked-form button {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.stacked-form button {
+    background-color: #50004B;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.stacked-form button:hover {
+    background-color: #81044D;
+}
+
+#confirmation-message {
+    color: rgb(128, 0, 96);
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
 /*Footer*/
 #social-networks {
     text-align: center;
