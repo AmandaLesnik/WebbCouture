@@ -11,9 +11,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <body class="contact-page">
 </head>
-<body>
+<body class="contact-page">
     <header>
         <a href="index.html">
             <h1 id="logo">WebbCouture</h1>
@@ -30,23 +29,24 @@
             </ul>
         </nav>
     </header>
- <main>
-    <section>
-        <h2>Contact Us</h2>
-        <form id="contact-form" class="stacked-form">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" rows="5" required></textarea>
-            <button type="submit">Send Message</button>
-        </form>
-        <p id="confirmation-message" style="display: none; color: rgb(128, 0, 107); font-weight: bold; margin-top: 1rem;">
-            Your message has been sent!
-        </p>
-    </section>
-</main>
+    <main>
+        <section class="contact-section">
+            <h2>Contact Us</h2>
+            <form id="contact-form" class="stacked-form">
+                <!-- form fields -->
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+            <p id="confirmation-message" style="display: none; color: rgb(128, 0, 107); font-weight: bold; margin-top: 1rem;">
+                Your message has been sent!
+            </p>
+        </section>
+    </main>
     <footer>
         <ul id="social-networks">
             <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-square-facebook"></i></a></li>
@@ -63,23 +63,4 @@
         });
     </script>
 </body>
-</html>
-
-
-
-    <!--Meta tags - serch engines-->
-    <meta name="description" content="WebbCouture - we build, design and develop websites.">
-    <meta name="keywords" content="web design, web development, webbcouture, webpage, design">
-
-    <!--Titel-->
-    <title>WebbCouture</title>
-    <!--Fav Icon-->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-
-    <!--Stylesheet-->
-    <link rel="stylesheet" href="assets/css/styles.css">
-</head>
-
 </html>
