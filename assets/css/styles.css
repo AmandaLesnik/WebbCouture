@@ -84,14 +84,15 @@ position: relative;
 }
 #cover-text {
 /* Final rgba value sets the opacity to semi-transparent */
-background-color: rgba(83, 0, 63, .7);
-font-size: 130%;
-position:absolute;
-bottom: 30px;
-width: 80%;
-min-height: 200px;
-padding-top: 40px;
-padding-left: 10px;
+position: absolute;
+bottom: 14rem;
+left: 38.5rem;
+background-color: rgba(83, 0, 63, 0.7);
+color: #fff;
+padding: 1rem;
+max-width: 400px;
+font-size: 1.2rem;
+border-radius: 8px;
 }
 #cover-text > h2, #cover-text > h3 {
     color: #FFFFFF;
@@ -253,5 +254,8 @@ padding-left: 10px;
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid #3A3A3A;
+    }
+    footer {
+        background-color: #FFFFFF;
     }
 }
