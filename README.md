@@ -203,7 +203,7 @@ Code on how to do the fade-in of the hero image came from information on this pa
 Media
 The colors used were based on the pink background color
 
-The icons in the header, footer and on the back of the flip-cards were taken from Font Awesome
+The icons were taken from Font Awesome
 
 The fonts used were imported from Google Fonts
 
