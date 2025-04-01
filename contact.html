@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,6 +13,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
+
 <body class="contact-page">
     <header>
         <a href="index.html">
@@ -42,25 +44,30 @@
                 <textarea id="message" name="message" rows="5" required></textarea>
                 <button type="submit">Send Message</button>
             </form>
-            <p id="confirmation-message" style="display: none; color: rgb(128, 0, 107); font-weight: bold; margin-top: 1rem;">
+            <p id="confirmation-message"
+                style="display: none; color: rgb(128, 0, 107); font-weight: bold; margin-top: 1rem;">
                 Your message has been sent!
             </p>
         </section>
     </main>
     <footer>
         <ul id="social-networks">
-            <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-square-facebook"></i></a></li>
-            <li><a href="https://www.whatsapp.com/" target="_blank" rel="noopener" aria-label="Whatsapp"><i class="fa-brands fa-square-whatsapp"></i></a></li>
-            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-square-instagram"></i></a></li>
+            <li><a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Facebook"><i
+                        class="fa-brands fa-square-facebook"></i></a></li>
+            <li><a href="https://www.whatsapp.com/" target="_blank" rel="noopener" aria-label="Whatsapp"><i
+                        class="fa-brands fa-square-whatsapp"></i></a></li>
+            <li><a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Instagram"><i
+                        class="fa-brands fa-square-instagram"></i></a></li>
         </ul>
     </footer>
     <script src="https://kit.fontawesome.com/605738b345.js" crossorigin="anonymous"></script>
     <script>
-        document.getElementById("contact-form").addEventListener("submit", function(event) {
+        document.getElementById("contact-form").addEventListener("submit", function (event) {
             event.preventDefault(); // prevent real submission
             this.reset(); // clear the form
             document.getElementById("confirmation-message").style.display = "block";
         });
     </script>
 </body>
+
 </html>
