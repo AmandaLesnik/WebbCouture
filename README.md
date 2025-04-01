@@ -144,6 +144,13 @@ The two main things the company do are presented in two sections on the main pag
 ## CSS Validator
 ![csscode](redme-img/css-checker.jpg)
 
+## Lighthouse scores
+- **performance:** 86
+- **accessibility:** 100
+- **best Practices:** 100
+- **SEO:** 100
+
+![alt text](redme-img/lighthouse.jpg)
 
 Browser Compatibility
 Testing has been carried out on the following browsers :
