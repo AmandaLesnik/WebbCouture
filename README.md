@@ -214,5 +214,5 @@ Acknowledgments
 Thank you to my mentor Brian Macharia
 
 
-Amanda Lesnik
+Amanda
 ​
