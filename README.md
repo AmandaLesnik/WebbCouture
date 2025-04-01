@@ -121,7 +121,7 @@ The two main things the company do are presented in two sections on the main pag
 ### Git: 
 - was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 ### GitHub: 
-- is used as the respository for the projects code after being pushed from Git.
+- is used as the repository for the projects code after being pushed from Git.
 ### Microsoft Paint 3D: 
 - was used for resizing images and editing photos for the website.
 ### Balsamiq: 
@@ -145,9 +145,9 @@ The two main things the company do are presented in two sections on the main pag
 ![csscode](redme-img/css-checker.jpg)
 
 ## Lighthouse scores
-- **performance:** 86
-- **accessibility:** 100
-- **best Practices:** 100
+- **Performance:** 86
+- **Accessibility:** 100
+- **Best Practices:** 100
 - **SEO:** 100
 
 ![alt text](redme-img/lighthouse.jpg)
