@@ -14,9 +14,6 @@ body {
     /*Generics styles*/
     color: rgb(83, 0, 63);
     font-family: 'Lato', sans-serif;
-    max-width: 1500px;
-    margin-right: auto;
-    margin-left: auto;
 }
 h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
