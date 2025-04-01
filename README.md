@@ -54,21 +54,17 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 💬 Tagline
 "We design and build your webpage" text reinforces the company’s services.
 
-BILD HÄR PÅ TEXTEN ------------------------------------------------------------------------------------------------------------------------------------
 
 Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build, We Design) they offer
 
-BILD HÄR PÅ DE TVÅ BUILD AND DESIGN HÄR --------
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+![build](redme-img/builddesign.png)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what we do and about our experience.
 
 ![alt text](redme-img/info.jpg)
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 📬 Contact Page
 - Allows users to send feedback or inquiries.
@@ -85,11 +81,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ![footer](redme-img/footer.jpg)
 
 
-
-
 ## How these features support the User Stories??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## Features which could be implemented in the future
 - On the info page we can add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
