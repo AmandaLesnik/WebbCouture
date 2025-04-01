@@ -152,12 +152,12 @@ The two main things the company do are presented in two sections on the main pag
 
 ![alt text](redme-img/lighthouse.jpg)
 
-Browser Compatibility
-Testing has been carried out on the following browsers :
-Chrome Version 90.0.4430.212 (Official Build) (64-bit)
-Firefox Version 88.0.1 (64-bit)
-Edge Version 90.0.818.62 (Official build) (64-bit)
-Safari on macOS Catalina (Safari Version 14.0.3)
+## Browser Compatibility
+- **Tested on:**
+- Chrome Version 90.0.4430.212 (Official Build) (64-bit)
+- Firefox Version 88.0.1 (64-bit)
+- Edge Version 90.0.818.62 (Official build) (64-bit)
+- Safari on macOS Catalina (Safari Version 14.0.3)
 
 
 Test Cases and Results
