@@ -203,6 +203,7 @@ max-width: 90%;
 #confirmation-message {
     color: rgb(255, 173, 235);
     font-weight: bold;
+    padding-left: 200px;
     font-size: 1.1rem;
 }
 /*Footer*/
