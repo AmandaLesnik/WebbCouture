@@ -103,7 +103,7 @@ The two main things the company do are presented in two sections on the main pag
 - Oswald for standout titles
 
 ## Wireframes
-**Created with Balsamiq during the planning stage:**
+**Created with Balsamiq during the planning stage:** ----------------------------------------LÄGG TILL RITNINGAR
 - Main Page Wireframe
 - Menu Page Wireframe
 - Contact Page Wireframe
