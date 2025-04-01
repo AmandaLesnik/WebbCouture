@@ -15,9 +15,17 @@ body {
     color: rgb(83, 0, 63);
     font-family: 'Lato', sans-serif;
 }
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Oswald', sans-serif;
     font-size: 0 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #52004B;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 0 3rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #52004B;
