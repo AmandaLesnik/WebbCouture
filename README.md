@@ -80,9 +80,9 @@ The two main things the company do are presented in two sections on the main pag
 
 ![footer](redme-img/footer.jpg)
 
+## How these features support the User Stories
 
-## How these features support the User Stories??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-
+![alt text](redme-img/user-stories.jpg)
 
 ## Features which could be implemented in the future
 - On the info page we can add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
@@ -153,66 +153,48 @@ The two main things the company do are presented in two sections on the main pag
 ![alt text](redme-img/lighthouse.jpg)
 
 ## Browser Compatibility
-- **Tested on:**
+### Tested on:
 - Chrome Version 90.0.4430.212 (Official Build) (64-bit)
 - Firefox Version 88.0.1 (64-bit)
 - Edge Version 90.0.818.62 (Official build) (64-bit)
 - Safari on macOS Catalina (Safari Version 14.0.3)
+- Test Cases and Results
 
+## Test Cases and Results
 
-Test Cases and Results
+![alt text](redme-img/test-case.jpg)
 
-The below table details the test cases that were used, the results and a cross-reference to the Feature ID that each test case exercised (click to open image):??????????????????????????
+## Known bugs
+- No known bugs at this time.
 
+## Deployment
+- How this site was deployed In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- Any changes pushed to the master branch will take effect on the live project
+- The live link can be found here https://webbcouture.github.io/main/
 
-Known bugs
+## How to clone the repository
+- Go to the https://webbcouture.github.io/main/ repository on GitHub
+- Click the "Code" button to the right of the screen.
+- Click HTTPs and copy the link there
+- Open a GitBash terminal and navigate to the directory where you want to locate the clone
+- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process.
 
-??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+## Credits
+- Content on the menu page was loosely based on menus on Love Running 
+- All other content was written by the developer.
 
+## Code
+- Fade-in hero image adapted from a CSS tutorial.
 
+## Media
+- Colors based on client’s pink image.
+- Icons: Font Awesome
+- Fonts: Google Fonts
+- Images: Unsplash
 
-Deployment
+## Acknowledgments
+- Special thanks to mentor Brian Macharia for guidance and constructive feedback during the project.
 
-How this site was deployed
-In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
-
-From the source section drop-down menu, select the Master Branch
-
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
-
-Any changes pushed to the master branch will take effect on the live project
-
-The live link can be found here https://webbcouture.github.io/main/
-
-
-How to clone the repository
-Go to the https://webbcouture.github.io/main/ repository on GitHub
-Click the "Code" button to the right of the screen, click HTTPs and copy the link there
-Open a GitBash terminal and navigate to the directory where you want to locate the clone
-On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process.
-
-Credits
-
-Content
-Content on the menu page was loosely based on menus on Love Running
-All other content was written by the developer.
-
-Code
-Code on how to do the fade-in of the hero image came from information on this page : CSS Image fade-in tutorial
-
-Media
-The colors used were based on the pink background color
-
-The icons were taken from Font Awesome
-
-The fonts used were imported from Google Fonts
-
-All images were downloaded from Unsplash 
-
-
-Acknowledgments
-Thank you to my mentor Brian Macharia
-
-
-Amanda
-​
+Amanda​
