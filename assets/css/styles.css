@@ -36,6 +36,7 @@ header {
     display: flex; /*Flexbox*/
     justify-content: space-between; /*Space between*/
     align-items: baseline;  /*Align items*/
+    max-width: 1500px;
 }
 header a {
     color: inherit;
