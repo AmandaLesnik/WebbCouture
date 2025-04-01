@@ -211,11 +211,7 @@ All images were downloaded from Unsplash
 
 
 Acknowledgments
-Thank you to my mentor Brian Macharia who gave me very good advice and feedback on how to plan and execute this project.
-
-
-
-
+Thank you to my mentor Brian Macharia
 
 
 Amanda Lesnik
