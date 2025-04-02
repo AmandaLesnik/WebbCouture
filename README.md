@@ -107,15 +107,15 @@ The two main things the company do are presented in two sections on the main pag
 
 - Main Page Wireframe
 
-  ![alt text](redme-img/Webcouture-balsamiq1.png)
+  ![alt text](redme-img/webcouture-balsamiq1.png)
 
 - Info Page Wireframe
 
-  ![alt text](redme-img/Webcouture-balsamiq2.png)
+  ![alt text](redme-img/webcouture-balsamiq2.png)
 
 - Contact Page Wireframe
 
-  ![alt text](redme-img/Webcouture-balsamiq3.png)
+  ![alt text](redme-img/webcouture-balsamiq3.png)
 
 ## Technologies Used
 - Languages Used
