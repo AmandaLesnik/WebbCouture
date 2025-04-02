@@ -2,7 +2,7 @@
 
 View the live project here: https://webbcouture.github.io/main/
 
-![amiresp](redme-img/am-i-responsive.jpg)
+![am-i-responsive-img](redme-img/am-i-responsive.jpg)
 
 ## Overview
 Welcome to WebCouture — a clean, responsive website designed to showcase professional web development services for a company targeting female clients. The client requested a pink and purple color scheme to create a visually appealing, feminine aesthetic. The site is built using HTML, CSS, and a touch of JavaScript, and is fully responsive for desktop and mobile devices, including smaller screens like the iPhone 5.
@@ -58,12 +58,12 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build, We Design) they offer
 
-![alt text](redme-img/builddesign.jpg)
+![builddesign-img](redme-img/builddesign.jpg)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what we do and about our experience.
 
-![alt text](redme-img/info.jpg)
+![ingo-img](redme-img/info.jpg)
 
 
 📬 Contact Page
@@ -82,7 +82,7 @@ The two main things the company do are presented in two sections on the main pag
 
 ## How these features support the User Stories
 
-![alt text](redme-img/user-stories.jpg)
+![user-stories-img](redme-img/user-stories.jpg)
 
 ## Features which could be implemented in the future
 - On the info page we can add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
@@ -107,17 +107,17 @@ The two main things the company do are presented in two sections on the main pag
 
 - Main Page Wireframe
 
-![alt text](redme-img/webcouture-balsamiq1.jpg)
+![balsamiq1-img](redme-img/webcouture-balsamiq1.jpg)
 
 
 - Info Page Wireframe
 
-![alt text](redme-img/webcouture-balsamiq2.jpg)
+![balsamiq2-img](redme-img/webcouture-balsamiq2.jpg)
 
 
 - Contact Page Wireframe
 
-![alt text](redme-img/webcouture-balsamiq3.jpg)
+![balsamiq3-img](redme-img/webcouture-balsamiq3.jpg)
 
 ## Technologies Used
 Languages Used:
@@ -162,7 +162,7 @@ Languages Used:
 - **Best Practices:** 100
 - **SEO:** 100
 
-![alt text](redme-img/lighthouse.jpg)
+![lighthouse-img](redme-img/lighthouse.jpg)
 
 ## Browser Compatibility
 ### Tested on:
@@ -174,7 +174,7 @@ Languages Used:
 
 ## Test Cases and Results
 
-![alt text](redme-img/test-case.jpg)
+![test-case-img](redme-img/test-case.jpg)
 
 ## Known bugs
 - No known bugs at this time.
