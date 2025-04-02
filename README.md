@@ -58,7 +58,7 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build, We Design) they offer
 
-![build](redme-img/builddesign.png)
+![alt text](redme-img/builddesign.jpg)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what we do and about our experience.
@@ -106,17 +106,13 @@ The two main things the company do are presented in two sections on the main pag
 **Created with Balsamiq during the planning stage:**
 
 - Main Page Wireframe
-
-![alt text](redme-img/webcouture-balsamiq1.png)
+![alt text](redme-img/webcouture-balsamiq1.jpg)
 
 - Info Page Wireframe
-
-![alt text](redme-img/webcouture-balsamiq2.png) 
+![alt text](redme-img/webcouture-balsamiq2.jpg)
 
 - Contact Page Wireframe
-
-![alt text](redme-img/webcouture-balsamiq3.png)
-
+![alt text](redme-img/webcouture-balsamiq3.jpg)
 
 ## Technologies Used
 Languages Used:
