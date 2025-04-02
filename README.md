@@ -121,6 +121,7 @@ The two main things the company do are presented in two sections on the main pag
 Languages Used:
 - HTML5
 - CSS3
+- JavaScript
 
 ## Frameworks, Libraries & Programs Used
 ### Google Fonts: 
