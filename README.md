@@ -106,12 +106,17 @@ The two main things the company do are presented in two sections on the main pag
 **Created with Balsamiq during the planning stage:**
 
 - Main Page Wireframe
+
 ![alt text](redme-img/webcouture-balsamiq1.jpg)
 
+
 - Info Page Wireframe
+
 ![alt text](redme-img/webcouture-balsamiq2.jpg)
 
+
 - Contact Page Wireframe
+
 ![alt text](redme-img/webcouture-balsamiq3.jpg)
 
 ## Technologies Used
