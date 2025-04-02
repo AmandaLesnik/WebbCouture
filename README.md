@@ -118,7 +118,7 @@ The two main things the company do are presented in two sections on the main pag
   ![alt text](redme-img/webcouture-balsamiq3.png)
 
 ## Technologies Used
-- Languages Used
+Languages Used:
 - HTML5
 - CSS3
 
