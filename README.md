@@ -103,10 +103,19 @@ The two main things the company do are presented in two sections on the main pag
 - Oswald for standout titles
 
 ## Wireframes
-**Created with Balsamiq during the planning stage:** ----------------------------------------LÄGG TILL RITNINGAR
+**Created with Balsamiq during the planning stage:**
+
 - Main Page Wireframe
-- Menu Page Wireframe
+
+  ![alt text](redme-img/Webcouture-balsamiq1.png)
+
+- Info Page Wireframe
+
+  ![alt text](redme-img/Webcouture-balsamiq2.png)
+
 - Contact Page Wireframe
+
+  ![alt text](redme-img/Webcouture-balsamiq3.png)
 
 ## Technologies Used
 - Languages Used
