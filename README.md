@@ -2,7 +2,7 @@
 
 View the live project here: https://webbcouture.github.io/main/
 
-![am-i-responsive-img](redme-img/am-i-responsive.jpg)
+![responsive-img](readme-img/am-i-responsive.jpg)
 
 ## Overview
 Welcome to WebCouture — a clean, responsive website designed to showcase professional web development services for a company targeting female clients. The client requested a pink and purple colour scheme to create a visually appealing, feminine aesthetic. The site is built using HTML, CSS, and a touch of JavaScript, and is fully responsive for desktop and mobile devices, including smaller screens like the iPhone 5.
@@ -42,14 +42,14 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 - Displays logo and links to Home, Info and Contact.
 - On mobile, navigation links shift below the logo for better visibility.
 
-![nav-bar](redme-img/nav-bar.jpg)
+![navbar-img](readme-img/nav-bar.jpg)
 
 🌸 Landing Page Image and Call to Action
 - Pink-themed hero image with the message: "WE BUILD AND DESIGN YOUR WEBPAGE" let clients know what the company do.
 - Call to action button to contact form.
 - Aimed to immediately attract female users.
 
-![home-img](redme-img/home.jpg)
+![home-img](readme-img/home.jpg)
 
 💬 Tagline
 "Web Design & Web Development" text reinforces the company’s services.
@@ -58,12 +58,12 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 ## Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build and We Design) they offer. And the customer can also see the third thing thay offer (or most important), support.
 
-![builddesign-img](redme-img/builddesign.jpg)
+![builddesign-img](readme-img/builddesign.jpg)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what they do, services and philosophy.
 
-![ingo-img](redme-img/info.jpg)
+![info-img](readme-img/info.jpg)
 
 
 📬 Contact Page
@@ -71,18 +71,18 @@ The two main things the company do are presented in two sections on the main pag
 - Form includes name and email fields.
 - Confirmation message: “Your message has been sent.”
 
-![contact](redme-img/contact.jpg)
+![contact-img](readme-img/contact.jpg)
 
 🔗 Footer
 - Present on all pages, identical for consistency.
 - Includes social media icons: Facebook, WhatsApp, and Instagram.
 - WhatsApp is emphasized for international communication.
 
-![footer](redme-img/footer.jpg)
+![footer.img](readme-img/footer.jpg)
 
 ## How these features support the User Stories
 
-![user-stories-img](redme-img/user-stories.jpg)
+![user-img](readme-img/user-stories.jpg)
 
 ## Features which could be implemented in the future
 - On the index page - add more cool effects, video or photo.
@@ -108,17 +108,17 @@ The two main things the company do are presented in two sections on the main pag
 
 - Main Page Wireframe
 
-![balsamiq1-img](redme-img/webcouture-balsamiq1.jpg)
+![balsamiq1](readme-img/webcouture-balsamiq1.jpg)
 
 
 - Info Page Wireframe
 
-![balsamiq2-img](redme-img/webcouture-balsamiq2.jpg)
+![balsamiq2](readme-img/webcouture-balsamiq2.jpg)
 
 
 - Contact Page Wireframe
 
-![balsamiq3-img](redme-img/webcouture-balsamiq3.jpg)
+![balsamiq3](readme-img/webcouture-balsamiq3.jpg)
 
 ## Technologies Used
 ### Languages Used:
@@ -146,19 +146,19 @@ The two main things the company do are presented in two sections on the main pag
 
 - index.html ✅ Valid
 
-![menu](redme-img/menu-checker.jpg)
+![menu-img](readme-img/menu-checker.jpg)
 
 - info.html ✅ Valid
 
-![info](redme-img/info-checker.jpg)
+![info-img](readme-img/info-checker.jpg)
 
 - contact.html ✅ Valid
 
-![contact](redme-img/contact-checker.jpg)
+![contact-img](readme-img/contact-checker.jpg)
 
 
 ## CSS Validator
-![csscode](redme-img/css-checker.jpg)
+![css-img](readme-img/css-checker.jpg)
 
 ## Lighthouse scores
 - **Performance:** 88
@@ -166,7 +166,7 @@ The two main things the company do are presented in two sections on the main pag
 - **Best Practices:** 100
 - **SEO:** 100
 
-![lighthouse-img](redme-img/lighthouse.jpg)
+![lighthouse](readme-img/lighthouse.jpg)
 
 ## Browser Compatibility
 ### Tested on:
@@ -178,7 +178,7 @@ The two main things the company do are presented in two sections on the main pag
 
 ## Test Cases and Results
 
-![test-case-img](redme-img/test-case.jpg)
+![test-img](readme-img/test-case.jpg)
 
 ## Known bugs
 - No known bugs at this time.
