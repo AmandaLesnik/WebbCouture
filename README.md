@@ -183,8 +183,40 @@ The two main things the company do are presented in two sections on the main pag
 ## Navigation test
 ![navtest-img](readme-img/navigationtest.jpg)
 
+## Form Validation Tests
+
+### Required Fields
+- Scenario: User attempts to submit the contact form without filling out all required fields.
+- Expected Outcome: Form submission is blocked and the browser displays an error or highlights missing fields, depending on your validation (HTML5 or JavaScript).
+
+### Invalid Email Format
+- Scenario: User types a string that is not in a valid email format (e.g., “abc” or “user@domain” with no TLD).
+- Expected Outcome: The form does not submit and a validation error appears, prompting the user to enter a valid email.
+
+### Valid Email Format
+- Scenario: User types a properly formatted email address (e.g., “john@example.com”).
+-Expected Outcome: Email field validation passes and no error is displayed (assuming all other required fields are filled).
+
+### Optional vs. Required Fields
+- Scenario: If you have optional fields (e.g., phone number), confirm that leaving them blank does not trigger an error.
+- Expected Outcome: Form can still be submitted successfully if the optional field is empty, and the rest are valid.
+
+### Successful Submission
+- Scenario: User completes all required fields with valid inputs, including a valid email, then clicks “Submit.”
+- Expected Outcome: The form should submit successfully, showing either a confirmation message (if handled on the client side) or redirecting to a success/thank-you page (if handled on the server).
+
+### Reset/Clear Form (If applicable)
+- Scenario: Check if there is a reset button or if the user manually clears the fields.
+- Expected Outcome: All fields return to their default state and any displayed errors are cleared.
+
 ## Known bugs
-- No known bugs at this time.
+
+When looking at mobile and desktop the bottom text "WebCouture - CRN: 55 - 57 68 132 - Address: 109 Albert Road, Blackpool - Phone: 010-230 30 34"
+look good and was at the bottom of the pages, where the footer began.
+But if you looked at a big screen, 3840px, there was a bigger space after the text.
+The problem was that we have used "br" in html code to make the space.
+Afterwards, when we put the text in the footer and change the styling in css for " footer h5 " it worked good on every screen.
+
 
 ## Deployment
 - How this site was deployed In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
