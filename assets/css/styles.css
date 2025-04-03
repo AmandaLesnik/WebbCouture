@@ -250,10 +250,12 @@ main {
 }
 
 #confirmation-message {
-    color: rgb(255, 173, 235);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     padding-left: 50px;
     font-size: 1.1rem;
+    display: none;
+    margin-top: 1rem;
 }
 
 /*Footer*/
