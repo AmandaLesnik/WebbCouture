@@ -44,17 +44,17 @@ h4 {
 
 /*Header*/
 header {
-    
+    background-color: #FFFFFF;
     /*White*/
     padding: 0 1rem;
     /*Padding on the sides*/
-   
+    position: fixed;
     /*Fixed position*/
     z-index: 99;
     /*Z-index*/
     width: 100%;
     /*Full width*/
-    
+    box-shadow: 0 2px 2px #3A3A3A;
     /*Shadow*/
     display: flex;
     /*Flexbox*/
