@@ -263,6 +263,17 @@ footer {
     background-color: #FFFFFF;
 }
 
+footer > h5 {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #C591C2;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
