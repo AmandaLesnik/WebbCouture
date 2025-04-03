@@ -120,7 +120,7 @@ The two main things the company do are presented in two sections on the main pag
 ![balsamiq3-img](redme-img/webcouture-balsamiq3.jpg)
 
 ## Technologies Used
-Languages Used:
+### Languages Used:
 - HTML5
 - CSS3
 - JavaScript
@@ -142,12 +142,15 @@ Languages Used:
 
 ## Testing
 ### HTML Validator Results
-- menu.html ✅ Valid
+
+- index.html ✅ Valid
 
 ![menu](redme-img/menu-checker.jpg)
+
 - info.html ✅ Valid
 
 ![info](redme-img/info-checker.jpg)
+
 - contact.html ✅ Valid
 
 ![contact](redme-img/contact-checker.jpg)
