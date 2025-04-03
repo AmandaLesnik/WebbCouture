@@ -128,7 +128,7 @@ The two main things the company do are presented in two sections on the main pag
 
 ## Frameworks, Libraries & Programs Used
 ### Google Fonts: 
-- was used to import the 'Lato' 'Georgia' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
+- was used to import the 'Lato' and 'Oswald' fonts into the style.css file which are used on all pages of the project.
 ### Font Awesome: 
 - was used to add icons for aesthetic and UX purposes.
 ### Git: 
