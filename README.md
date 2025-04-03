@@ -58,7 +58,7 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 ## Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build and We Design) they offer. And the customer can also see the third thing thay offer (or most important), support.
 
-![buildd-img](redme-img/builddesign.jpg)
+![builddesign-img](redme-img/builddesign.jpg)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what they do, services and philosophy.
