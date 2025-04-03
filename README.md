@@ -180,6 +180,9 @@ The two main things the company do are presented in two sections on the main pag
 
 ![test-img](readme-img/test-case.jpg)
 
+## Navigation test
+![navtest-img](readme-img/navigationtest.jpg)
+
 ## Known bugs
 - No known bugs at this time.
 
@@ -197,6 +200,14 @@ The two main things the company do are presented in two sections on the main pag
 - Open a GitBash terminal and navigate to the directory where you want to locate the clone
 - On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process.
 
+## How to Forking the GitHub Repository
+
+- By forking the GitHub Repository, you can make a copy of the original repository in your own GitHub account. 
+- This means we can view or make changes without making the changes affecting the original.
+- Log into GitHub and locate the GitHub Repository.
+- At the top of the Repository there is a "Fork" button about the "Settings" button on the menu.
+- You should now have a new copy of the original repository in your own GitHub account.
+
 ## Credits
 - Content on the menu page was loosely based on menus on Love Running 
 - All other content was written by the developer.
@@ -213,4 +224,4 @@ The two main things the company do are presented in two sections on the main pag
 ## Acknowledgments
 - Special thanks to mentor Brian Macharia for guidance and constructive feedback during the project.
 
-Amanda​
+### Amanda​
