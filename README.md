@@ -23,7 +23,7 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 ### First-Time Visitor Goals
 - Understand the main purpose of the site quickly.
 - Navigate the site easily to find information.
-- Locate the menu and contact pages effortlessly.
+- Locate the info and contact pages effortlessly.
 - Learn what the company offers and how to get in touch.
 
 ## Returning Visitor Goals
@@ -32,20 +32,20 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 - Get in touch to give feedback or ask questions.
 
 ## Frequent User Goals:
-- As a Frequent User, I want to easy fit the company´s contact on whatsup to call or text them.
+- As a Frequent User, want to find the company´s contact on whatsup easy, to call or text them.
 
 
 ## Features
 🧭 Navigation Bar
 - Appears on all three pages.
 - Responsive across screen sizes.
-- Displays logo and links to Home, Menu, and Contact.
+- Displays logo and links to Home, Info and Contact.
 - On mobile, navigation links shift below the logo for better visibility.
 
 ![nav-bar](redme-img/nav-bar.jpg)
 
 🌸 Landing Page Image and Call to Action
-- Pink-themed hero image with the message: "We fix your page! It's never too late to have a nice webpage"
+- Pink-themed hero image with the message: "WE BUILD AND DESIGN YOUR WEBPAGE"
 - Aimed to immediately attract female users.
 
 ![home](redme-img/home.jpg)
@@ -56,12 +56,12 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 
 
 Company Ideals section
-The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build, We Design) they offer
+The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build and We Design) they offer. And the customer can also see the third thing thay offer (or most important), support.
 
 ![builddesign-img](redme-img/builddesign.jpg)
 
 📝 Info Page
-- The Info Page is a page that tells the customer about the company, what we do and about our experience.
+- The Info Page is a page that tells the customer about the company, what they do, services and philosophy.
 
 ![ingo-img](redme-img/info.jpg)
 
@@ -85,16 +85,17 @@ The two main things the company do are presented in two sections on the main pag
 ![user-stories-img](redme-img/user-stories.jpg)
 
 ## Features which could be implemented in the future
-- On the info page we can add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
-- We can add a map and an adress when the company have moved in to their office.
+- On the index page - add more cool effects, video or photo.
+- On the info page - photos, add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
+- on the contact page -photos, can add a map and an adress when the company have moved in to their office.
 
 
 ## Design
-- The pink picture, and the pink/purple style, has been chosen to attract female customers.
-- The info picture has ben chosen to show that the company design the webpage to look good on all screen sizes.
+- The pink picture, and the pink/purple style, has been chosen to attract female clients like the customer wanted.
+- The info picture has ben chosen to show what the company design - that the webpage to look good on all screen sizes.
 
 🎨 Color Scheme
-- We choose our palette from the pink picture that tha costumer want to have and mix it well so its easy to reed with the background colors and text colors.
+- We choose our palette from the pink picture that the costumer want to have and mix it well so its easy to reed with the background colors and text colors.
 
 🔠 Typography
 - Google Fonts used:
@@ -160,8 +161,8 @@ The two main things the company do are presented in two sections on the main pag
 ![csscode](redme-img/css-checker.jpg)
 
 ## Lighthouse scores
-- **Performance:** 86
-- **Accessibility:** 100
+- **Performance:** 88
+- **Accessibility:** 98
 - **Best Practices:** 100
 - **SEO:** 100
 
