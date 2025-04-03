@@ -62,6 +62,7 @@ header {
     /*Space between*/
     align-items: baseline;
     /*Align items*/
+    max-width: 2000px;
 }
 
 header a {
