@@ -26,6 +26,7 @@ h1, h2 {
     font-size: 0 1rem;
     letter-spacing: 2px;
     color: #52004B;
+    margin-top: 25px;
 }
 
 h3 {
@@ -33,13 +34,15 @@ h3 {
     font-size: 0 3rem;
     letter-spacing: 2px;
     color: #7e0073;
+    margin-top: 25px;
 }
 
 h4 {
-    font-family: 'georgia';
+    font-family: 'Oswald', sans-serif ;
     font-size: 0 1rem;
     letter-spacing: 2px;
     color: #52004B;
+    margin-top: 25px;
 }
 
 /*Header*/
