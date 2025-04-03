@@ -45,20 +45,20 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 ![nav-bar](redme-img/nav-bar.jpg)
 
 🌸 Landing Page Image and Call to Action
-- Pink-themed hero image with the message: "WE BUILD AND DESIGN YOUR WEBPAGE"
+- Pink-themed hero image with the message: "WE BUILD AND DESIGN YOUR WEBPAGE" let clients know what the company do.
+- Call to action button to contact form.
 - Aimed to immediately attract female users.
 
-![home](redme-img/home.jpg)
-
+![home-img](redme-img/home.jpg)
 
 💬 Tagline
-"We design and build your webpage" text reinforces the company’s services.
+"Web Design & Web Development" text reinforces the company’s services.
 
 
 ## Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build and We Design) they offer. And the customer can also see the third thing thay offer (or most important), support.
 
-![builddesign-img](redme-img/builddesign.jpg)
+![buildd-img](redme-img/builddesign.jpg)
 
 📝 Info Page
 - The Info Page is a page that tells the customer about the company, what they do, services and philosophy.
