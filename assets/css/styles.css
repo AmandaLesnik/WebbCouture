@@ -136,6 +136,8 @@ main {
     margin-top: 47px;
 }
 
+ul {list-style: square;}
+
 /* Pink section */
 #pink {
     height: 600px;
