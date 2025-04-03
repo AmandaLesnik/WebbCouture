@@ -5,7 +5,7 @@ View the live project here: https://webbcouture.github.io/main/
 ![am-i-responsive-img](redme-img/am-i-responsive.jpg)
 
 ## Overview
-Welcome to WebCouture — a clean, responsive website designed to showcase professional web development services for a company targeting female clients. The client requested a pink and purple color scheme to create a visually appealing, feminine aesthetic. The site is built using HTML, CSS, and a touch of JavaScript, and is fully responsive for desktop and mobile devices, including smaller screens like the iPhone 5.
+Welcome to WebCouture — a clean, responsive website designed to showcase professional web development services for a company targeting female clients. The client requested a pink and purple colour scheme to create a visually appealing, feminine aesthetic. The site is built using HTML, CSS, and a touch of JavaScript, and is fully responsive for desktop and mobile devices, including smaller screens like the iPhone 5.
 
 ## Table of Contents
 - **User Experience**
@@ -32,7 +32,7 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 - Get in touch to give feedback or ask questions.
 
 ## Frequent User Goals:
-- As a Frequent User, want to find the company´s contact on whatsup easy, to call or text them.
+- As a Frequent User, want to find the company´s contact on WhatApp easy, to call or text them.
 
 
 ## Features
@@ -55,7 +55,7 @@ Welcome to WebCouture — a clean, responsive website designed to showcase profe
 "We design and build your webpage" text reinforces the company’s services.
 
 
-Company Ideals section
+## Company Ideals section
 The two main things the company do are presented in two sections on the main page. This give the user more information about the organization and the two things (We Build and We Design) they offer. And the customer can also see the third thing thay offer (or most important), support.
 
 ![builddesign-img](redme-img/builddesign.jpg)
@@ -86,8 +86,8 @@ The two main things the company do are presented in two sections on the main pag
 
 ## Features which could be implemented in the future
 - On the index page - add more cool effects, video or photo.
-- On the info page - photos, add som reference and pictures and links on webpages that we have done and some quotes from happy costomers.
-- on the contact page -photos, can add a map and an adress when the company have moved in to their office.
+- On the info page - photos, add some reference and pictures and links on webpages that we have done and some quotes from happy customers.
+- on the contact page -photos, can add a map and an address when the company have moved in to their office.
 
 
 ## Design
@@ -95,10 +95,10 @@ The two main things the company do are presented in two sections on the main pag
 - The info picture has ben chosen to show what the company design - that the webpage to look good on all screen sizes.
 
 🎨 Color Scheme
-- We choose our palette from the pink picture that the costumer want to have and mix it well so its easy to reed with the background colors and text colors.
+- We choose our palette from the pink picture that the costumer want to have and mix it well so its easy to read with the background colours and text colours.
 
 🔠 Typography
-- Google Fonts used:
+### Google Fonts used:
 - Lato for body text
 - Georgia for stylistic headings
 - Oswald for standout titles
@@ -205,7 +205,7 @@ The two main things the company do are presented in two sections on the main pag
 - Fade-in hero image adapted from a CSS tutorial.
 
 ## Media
-- Colors based on client’s pink image.
+- Colours based on client’s pink image.
 - Icons: Font Awesome
 - Fonts: Google Fonts
 - Images: Unsplash
